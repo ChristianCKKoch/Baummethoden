@@ -2,6 +2,6 @@
 ## 4 Tickets:
 
 - Daten herunterladen
-- train.py erstellen
+- baum_train.py erstellen
 - Modell speichern
-- predict.py erstellen
+- baum_predict.py erstellen
