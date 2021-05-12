@@ -38,7 +38,7 @@ classifier = classifier.fit(x_train, y_train)
 classifier.feature_importances_
 
 #Save in file
-clf_file = "classifier_object.data"
+clf_file = "classifier_object.pickle"
 f = open(clf_file, 'wb')
 pi.dump(classifier, f)
 f.close()
