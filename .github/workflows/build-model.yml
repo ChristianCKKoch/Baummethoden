@@ -21,4 +21,4 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: classifier_object.pickle
-        path: models/classifier_object.pickle
+        path: classifier_object.pickle
